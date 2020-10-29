@@ -1,6 +1,7 @@
 import sys
 import json
 from ise import ERS
+#ise_config is a file to store the ISE's address and credentials for API
 from ise_config import ISE_NODE, USER, PASSWORD
 ise = ERS(ise_node=ISE_NODE, ers_user=USER, ers_pass=PASSWORD, verify=False, disable_warnings=True)
 def endpoint_groups():
