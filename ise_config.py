@@ -1,3 +1,3 @@
-ISE_NODE="130.217.96.153"
-USER="noc_NBI"
-PASSWORD="Jup1t3r"
+ISE_NODE="a.b.c.d"
+USER="NBI_User"
+PASSWORD="NBI_Pass"
