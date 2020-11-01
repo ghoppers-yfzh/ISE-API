@@ -2,9 +2,9 @@
 Multiple function script for polling data from ISE API
 
 ## Preparation
-###1. Tested with Python3.8, but should be fine with other Python3 version. 
+1. Tested with Python3.8, but should be fine with other Python3 version. 
 
-###2. Library ise, see the following link for the detail installation.
+2. Library ise, see the following link for the detail installation.
       https://pypi.org/project/ISE/
       
 ## Functions
