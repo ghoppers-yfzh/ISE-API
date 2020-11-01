@@ -21,3 +21,6 @@ Multiple function script for polling data from ISE API
 5. Function for polling the endpoint details and print out the group name
 
 ### Keep working on this script to include more features and easier to use.
+
+## License
+This project is licensed under the BSD 2-Clause "Simplified" License - see the  [LICENSE](./LICENSE) file for details.
