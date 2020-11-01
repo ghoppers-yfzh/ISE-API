@@ -8,16 +8,16 @@ Multiple function script for polling data from ISE API
       https://pypi.org/project/ISE/
       
 ## Functions
-Several funcations/API included in this script
+### Several funcations/API included in this script
 
-### 1. Function for polling the Group and UUID
+1. Function for polling the Group and UUID
 
-### 2. Function for polling a network device detail
+2. Function for polling a network device detail
 
-### 3. Function for polling the endpoint group details
+3. Function for polling the endpoint group details
 
-### 4. Function for populate a list of endpoint in the database
+4. Function for populate a list of endpoint in the database
 
-### 5. Function for polling the endpoint details and print out the group name
+5. Function for polling the endpoint details and print out the group name
 
 ### Keep working on this script to include more features and easier to use.
