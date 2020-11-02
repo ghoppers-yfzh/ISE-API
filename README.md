@@ -1,5 +1,6 @@
 # What is this?
-Multiple function script for polling data from ISE API
+Multiple function script for polling data from ISE database for certain information.(Network Device, Endpoint, Endpoint Group .etc)
+![ISE-API](/ISE-API-flow.png)
 
 ## Preparation
 1. Tested with Python3.8, but should be fine with other Python3 version. 
