@@ -24,3 +24,6 @@ Multiple function script for polling data from ISE API
 
 ## License
 This project is licensed under the BSD 2-Clause "Simplified" License - see the  [LICENSE](./LICENSE) file for details.
+
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/wukong-sun/ISE-API)
