@@ -12,7 +12,7 @@ cd ISE-API
 #### 3. Create the virtual environment in a sub dir in the same directory
 python3 -m venv venv
 #### 4. Start the virtual environment and install requirements.txt from the <ise_session>
-source venv/bin/activate
+./venv/bin/activate.bat
 pip install -r requirements.txt 
       
 ## Functions and Run result
