@@ -11,15 +11,13 @@ Multiple function script for polling data from ISE database for certain informat
 ## Functions
 ### Several funcations/API included in this script
 
-1. Function for polling the Group and UUID
+1. Function for polling the Endpoint device Group and UUID
 
-2. Function for polling a network device detail
+2. Function for polling the endpoint group details
 
-3. Function for polling the endpoint group details
+3. Function for polling the endpoint details and print out the group name
 
-4. Function for populate a list of endpoint in the database
-
-5. Function for polling the endpoint details and print out the group name
+4. Function for polling a network device detail
 
 ### Keep working on this script to include more features and easier to use.
 
