@@ -5,18 +5,18 @@ Multiple function script for polling data from ISE database for certain informat
 
 ## Installation
 
-## 1. Clone the repo
+### 1. Clone the repo
 git clone https://github.com/wukong-sun/ISE-API.git
-## 2. change into directory
+### 2. change into directory
 cd ISE-API
-## 3. Create the virtual environment in a sub dir in the same directory
+### 3. Create the virtual environment in a sub dir in the same directory
 python3 -m venv venv
-## 4. Start the virtual environment and install requirements.txt from the <ise_session>
+### 4. Start the virtual environment and install requirements.txt from the <ise_session>
 source venv/bin/activate
 pip install -r requirements.txt 
       
-## Functions and Run result
-### Several funcations/API included in this script
+# Functions and Run result
+## Several funcations/API included in this script
 
 ## CLI RUN
 python3 ISEAPI.py
@@ -29,6 +29,7 @@ python3 ISEAPI.py
 ![endpointdetail](/endpointdetail.png)
 4. Function for polling a network device detail
 ![networkdevicedetail](/networkdevicedetail.png)
+
 ### Keep working on this script to include more features and easier to use.
 
 ## License
