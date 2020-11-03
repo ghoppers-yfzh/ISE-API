@@ -16,9 +16,10 @@ source venv/bin/activate
 pip install -r requirements.txt 
       
 # Functions and Run result
-## Several funcations/API included in this script
+Several funcations/API included in this script
 
-## CLI RUN
+CLI RUN
+
 python3 ISEAPI.py
 
 1. Function for polling the Endpoint device Group and UUID
