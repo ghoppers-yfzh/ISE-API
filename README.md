@@ -11,7 +11,7 @@ git clone https://github.com/wukong-sun/ISE-API.git
 cd ISE-API
 #### 3. Create the virtual environment in a sub dir in the same directory
 python3 -m venv venv
-#### 4. Start the virtual environment and install requirements.txt from the <ISE-API>
+#### 4. Start the virtual environment and install requirements.txt
 ./venv/bin/activate.bat
 
 pip install -r requirements.txt 
