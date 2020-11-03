@@ -18,6 +18,9 @@ pip install -r requirements.txt
 ## Functions and Run result
 ### Several funcations/API included in this script
 
+## CLI RUN
+python3 ISEAPI.py
+
 1. Function for polling the Endpoint device Group and UUID
 ![endpointgrouplist](/endpointgrouplist.png)
 2. Function for polling the endpoint group details
